@@ -1,0 +1,3 @@
+outs:
+- md5: e447faad7dc584de49e7ad288bbfe793
+  path: database.sqlite
